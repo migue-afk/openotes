@@ -1,6 +1,6 @@
 ---
 title: Infrastructure Resilience
-nav_order: 7
+layout: homew
 ---
 
 # Migration of Docker Environment Between Servers with LVM Volume Management
