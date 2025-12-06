@@ -1,8 +1,10 @@
 ---
-title: Code
-parent: UI Components
-nav_order: 5
+title: "Instalación"
+nav_order: 1
+parent: "Guía"
+has_children: true
 ---
+
 
 # Code
 {: .no_toc }
