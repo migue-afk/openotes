@@ -2,7 +2,6 @@
 title: "Instalación"
 nav_order: 1
 parent: "Guía"
-has_children: true
 ---
 
 
