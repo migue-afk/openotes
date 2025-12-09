@@ -1,6 +1,7 @@
 ---
-title: Infrastructure Resilience
-layout: homew
+title: Server migration
+parent: Infraestructure Resilience
+layout: home
 ---
 
 # Migration of Docker Environment Between Servers with LVM Volume Management
@@ -16,7 +17,7 @@ Later, the Docker images were migrated and the volume data was restored.
 
 ---
 
-# Contents
+## Contents
 
 - [Phase 1: LVM Expansion and Snapshot Creation](#phase-1-lvm-expansion-and-snapshot-creation)
     
@@ -25,7 +26,7 @@ Later, the Docker images were migrated and the volume data was restored.
 - [Phase 3: Reconstruction and Fine-Tuning on the Destination Server](#phase-3-reconstruction-and-fine-tuning-on-the-destination-server)
     
 
-# Phase 1: LVM Expansion and Snapshot Creation
+## Phase 1: LVM Expansion and Snapshot Creation
 
 The original server used **LVM** to manage its main disk (`/dev/sda5`), which offered flexibility but presented an immediate problem: the **Volume Group (`debianhp-vg`)** did not have enough free space for a **Logical Volume (LV) Snapshot**.
 
@@ -259,4 +260,4 @@ The migration was completed successfully. For a smooth migration, consider:
 - **Docker:** Proper **tagging** (`-o <image_name>.tar`) is crucial during `docker save` to simplify restoration.
     
 - **Persistent Volumes:** The fundamental rule is to **know the `UID`/`GID`** used inside the container and ensure restored volumes have the correct ownership (`chown`).
-    
+
