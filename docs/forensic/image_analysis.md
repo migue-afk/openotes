@@ -3,12 +3,10 @@ title: Image analysis
 layout: home
 parent: Forensic
 nav_order: 2
+tags: [analysis, photorec, recovery, foremost, strings]
 ---
 
 # Image analysis
-
-tags: #analysis #photorec #recovery #foremost #strings
-
 -----
 
 In the obtained image there may be files that were deleted but are still present. We can try to recover potential files using the following tools:
