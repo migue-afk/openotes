@@ -7,6 +7,10 @@ nav_order: 2
 
 # Image analysis
 
+tags: #analysis #photorec #recovery #foremost #strings
+
+-----
+
 In the obtained image there may be files that were deleted but are still present. We can try to recover potential files using the following tools:
 
 ---
