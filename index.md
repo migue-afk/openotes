@@ -14,6 +14,6 @@ This site explains all the problems and solutions I've encountered in my experie
 
 {: .fs-6 .fw-300 }
 
-[View in GitHub](https://github.com/migue-afk){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View in GitHub](https://github.com/migue-afk/openotes){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 This site uses the template [Just the Docs](https://github.com/just-the-docs/just-the-docs), visit their site for more details.
