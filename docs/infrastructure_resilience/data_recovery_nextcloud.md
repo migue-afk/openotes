@@ -5,6 +5,7 @@ layout: home
 ---
 
 # Nextcloud data recovery
+---
 
 ## Case Overview
 A host synchronized data with Nextcloud and was subsequently infected with a Trojan. The synchronization interval was one hour, during which the infected host synchronized malicious or corrupted files with the Nextcloud server. Fortunately a backup was available, allowing for recovery as described below.
