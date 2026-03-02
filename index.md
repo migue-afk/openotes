@@ -9,7 +9,7 @@ nav_order: 1
 {: .fs-4}
 
 
-This site explains all the problems and solutions I've encountered in my experience with operating systems (Linux, Windows, macOS). It also covers other areas such as forensics and infrastructure. Furthermore, it addresses self-hosting and Docker functionality, with a particular focus on backup strategies. [Access] {https://migue-afk.github.io/openotes/}
+This site explains all the problems and solutions I've encountered in my experience with operating systems (Linux, Windows, macOS). It also covers other areas such as forensics and infrastructure. Furthermore, it addresses self-hosting and Docker functionality, with a particular focus on backup strategies. [Access] (https://migue-afk.github.io/openotes/)
 
 
 {: .fs-6 .fw-300 }
