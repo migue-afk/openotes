@@ -1,11 +1,11 @@
 ---
 title: Linux server hardening checklist
 layout: home
-parent: Hardening
+parent: Linux
 nav_order: 1
 tags: [hardening, linux, checklist, ]
 ---
-# Linux server hardening checklist
+# Linux Server Hardening Checklist
 ---
 
 ### 1. Keep packages update
